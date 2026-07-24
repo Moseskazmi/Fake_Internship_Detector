@@ -1,4 +1,4 @@
-ake Internship Detector
+Fake Internship Detector
 
 Fake Internship Detector is a web application designed to help students and 
 job seekers identify fake or suspicious internship and
