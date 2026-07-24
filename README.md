@@ -20,7 +20,7 @@ reliable way to evaluate internship opportunities.
 ## Tech Stack
 
 - React.js
-- JavaScript (.jsx)
+- JavaScript
 - Tailwind CSS
 - React Router
 - Axios
